@@ -920,6 +920,12 @@ else
           <a href="http://www.multion.com"><img src="./images/patrocinadores/logo-multion.png" /></a>
           <a href="http://grupossc.com/index.php"><img src="./images/patrocinadores/logo-grupossc.jpg" /></a>
           <a href="http://www.huitzilin.com.mx"><img src="./images/patrocinadores/logo-huitzilin.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/Artecnica.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/EraKreativa.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/Fluke.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/Raysafe.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/Robodacta5.png" /></a>
+          <a href="#"><img src="./images/patrocinadores/obsupp.png" /></a>
         </div>
       </div>
     </div>
