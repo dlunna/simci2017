@@ -151,6 +151,11 @@ else
 
 
   <section id="programa" style="background-image: url(https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/20KDRXQJNU.jpg); background-size: 100%;">
+
+    <br />
+    <iframe src="http://ericsimancas.com/rsimci2017/simci2017.php" width="100%" height="400"></iframe>
+    <br />
+
     <div class="container">
 
       <div class="row text-center clearfix">
