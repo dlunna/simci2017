@@ -160,7 +160,9 @@ else
 
       <div class="row text-center clearfix">
         <div class="col-sm-8 col-sm-offset-2">
-          <img src="./images/avisoagenda.jpeg" class="img-responsive">
+          <a href="./pdf/revista-SIMCI2017_ISSN.pdf">
+          <img src="./images/revista-simci.jpg" class="img-responsive">
+          </a>
           <br>
         </div>
       </div>
