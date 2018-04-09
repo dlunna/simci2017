@@ -58,6 +58,7 @@ else
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li class="scroll active"><a href="#navigation"><?php echo $menu01; ?></a></li>
+            <li class="scroll"><a href="#download"><?php echo "Descarga"; ?></a></li>
             <li class="scroll"><a href="#about-us"><?php echo $menu02; ?></a></li>
             <li class="scroll"><a href="#ejes"><?php echo $menu03; ?></a></li>
             <li class="scroll"><a href="#comiteorg"><?php echo $menu04; ?></a></li>
@@ -157,16 +158,15 @@ else
     <br />
 
     <div class="container">
-
-      <div class="row text-center clearfix">
-        <div class="col-sm-8 col-sm-offset-2">
-          <a href="./pdf/revista-SIMCI2017_ISSN.pdf">
-          <img src="./images/revista-simci.jpg" class="img-responsive">
-          </a>
-          <br>
-        </div>
+      <div class="jumbotron" >
+        <a id="download"></a>
+        <h1>Publicación electrónica SIMCI</h1>
+        <p>Descarga la versión digital del SIMPOSIO IBEROAMERICANO MULTIDISCIPLINARIO DE CIENCIAS E INGENIERÍAS  editada por la Universidad Politécnica de Pachuca</p>
+        <br />
+        <a class="btn btn-success" href="./pdf/revista-SIMCI2017_ISSN.pdf" role="button">Edición 2017</a>
       </div>
 
+      <br />
 
       <div class="jumbotron" >
         <h1>AGENDA SIMCI</h1>
